@@ -1,6 +1,6 @@
 class people::dongri::applications {
   include alfred
-  include chrome
+  include chrome::canary
   include dropbox
   include firefox
   include flux
