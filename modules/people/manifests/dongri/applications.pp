@@ -1,6 +1,6 @@
 class people::dongri::applications {
-  include alfred
   include chrome::canary
+  include alfred
   include dropbox
   include firefox
   include flux
@@ -17,4 +17,3 @@ class people::dongri::applications {
       provider => appdmg;
   }
 }
-

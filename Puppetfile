@@ -56,12 +56,8 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-
-github "mysql",          "1.2.0"
 github "chrome",         "1.1.2"
 github "firefox",        "1.1.4"
-github "redis",          "1.1.0"
-github "imagemagick",    "1.2.1"
 github "alfred",         "1.1.7"
 github "sequel_pro",     "1.0.0"
 github "flux",           "1.0.0"
@@ -69,3 +65,6 @@ github "sublime_text_2", "1.1.2"
 github "transmit",       "1.0.1"
 github "dropbox",        "1.1.1"
 
+github "mysql",          "1.2.0"
+github "redis",          "1.1.0"
+github "imagemagick",    "1.2.1"

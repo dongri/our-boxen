@@ -1,5 +1,5 @@
 class people::dongri {
-  #include projects::android
+  include projects::server
   
   include people::dongri::applications
   include people::dongri::git

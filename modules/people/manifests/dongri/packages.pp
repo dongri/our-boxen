@@ -7,4 +7,3 @@ class people::dongri::packages {
     ]:
   }
 }
-
