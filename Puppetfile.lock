@@ -134,6 +134,11 @@ GITHUBTARBALL
     transmit (1.0.1)
 
 GITHUBTARBALL
+  remote: boxen/puppet-virtualbox
+  specs:
+    virtualbox (1.0.9)
+
+GITHUBTARBALL
   remote: boxen/puppet-xquartz
   specs:
     xquartz (1.1.0)
@@ -178,5 +183,6 @@ DEPENDENCIES
   sublime_text_2 (= 1.1.2)
   sudo (= 1.0.0)
   transmit (= 1.0.1)
+  virtualbox (= 1.0.9)
   xquartz (= 1.1.0)
 
