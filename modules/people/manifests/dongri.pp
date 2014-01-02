@@ -5,4 +5,3 @@ class people::dongri {
   include people::dongri::git
   include people::dongri::packages
 }
-

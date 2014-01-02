@@ -64,6 +64,7 @@ github "flux",           "1.0.0"
 github "sublime_text_2", "1.1.2"
 github "transmit",       "1.0.1"
 github "dropbox",        "1.1.1"
+github "gitx",           "1.2.0"
 
 github "mysql",          "1.2.0"
 github "redis",          "1.1.0"

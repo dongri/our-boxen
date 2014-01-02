@@ -7,6 +7,7 @@ class people::dongri::applications {
   include sublime_text_2
   include transmit
   include sequel_pro
+  include gitx::1
 
   package {
     'GoogleJapaneseInput':
