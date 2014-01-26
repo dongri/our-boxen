@@ -66,6 +66,7 @@ github "transmit",       "1.0.1"
 github "dropbox",        "1.1.1"
 github "virtualbox",     "1.0.9"
 github "gitx",           "1.2.0"
+github "skype",          "1.0.8"
 
 github "mysql",          "1.2.0"
 github "redis",          "1.1.0"

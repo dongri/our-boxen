@@ -1,5 +1,5 @@
 class people::dongri::applications {
-  include chrome::canary
+  include chrome
   include alfred
   include dropbox
   include firefox
@@ -7,7 +7,8 @@ class people::dongri::applications {
   include sublime_text_2
   include transmit
   include sequel_pro
-  include gitx::1
+  include gitx::l             # GitX(L)
+  include skype
 
   package {
     'GoogleJapaneseInput':
