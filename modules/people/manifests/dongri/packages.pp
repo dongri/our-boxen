@@ -3,7 +3,8 @@ class people::dongri::packages {
     [
       'git-flow',
       'go',
-      'wget'
+      'wget',
+      'tmux'
     ]:
   }
 }
