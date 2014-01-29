@@ -2,7 +2,8 @@ class projects::server {
   include nginx
   include mysql
   include virtualbox
-
+  include mongodb
+  
   # Vagrant stuff
   include vagrant
   vagrant::plugin { 'vagrant-berkshelf':

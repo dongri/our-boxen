@@ -79,6 +79,11 @@ GITHUBTARBALL
     java (1.2.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-mongodb
+  specs:
+    mongodb (1.2.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-mysql
   specs:
     mysql (1.2.0)
@@ -191,6 +196,7 @@ DEPENDENCIES
   imagemagick (= 1.2.1)
   inifile (= 1.0.0)
   java (= 1.2.0)
+  mongodb (= 1.2.0)
   mysql (= 1.2.0)
   nginx (= 1.4.2)
   nodejs (= 3.3.0)
