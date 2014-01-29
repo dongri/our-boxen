@@ -139,6 +139,11 @@ GITHUBTARBALL
     skype (1.0.8)
 
 GITHUBTARBALL
+  remote: boxen/puppet-spotify
+  specs:
+    spotify (1.0.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-sublime_text_2
   specs:
     sublime_text_2 (1.1.2)
@@ -208,6 +213,7 @@ DEPENDENCIES
   ruby (= 6.7.2)
   sequel_pro (= 1.0.0)
   skype (= 1.0.8)
+  spotify (= 1.0.1)
   stdlib (= 4.1.0)
   sublime_text_2 (= 1.1.2)
   sudo (= 1.0.0)

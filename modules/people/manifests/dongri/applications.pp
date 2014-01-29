@@ -9,6 +9,7 @@ class people::dongri::applications {
   include sequel_pro
   include gitx::l             # GitX(L)
   include skype
+  include spotify
 
   package {
     'GoogleJapaneseInput':

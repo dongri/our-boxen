@@ -68,9 +68,11 @@ github "virtualbox",     "1.0.9"
 github "gitx",           "1.2.0"
 github "skype",          "1.0.8"
 github "vagrant",        "3.0.2"
+github "spotify",        "1.0.1"
 
 github "mysql",          "1.2.0"
 github "redis",          "1.1.0"
 github "imagemagick",    "1.2.1"
 github "java",           "1.2.0"
 github "mongodb",        "1.2.0"
+
