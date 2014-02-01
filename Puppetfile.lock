@@ -169,6 +169,11 @@ GITHUBTARBALL
     virtualbox (1.0.9)
 
 GITHUBTARBALL
+  remote: boxen/puppet-vlc
+  specs:
+    vlc (1.0.5)
+
+GITHUBTARBALL
   remote: boxen/puppet-xquartz
   specs:
     xquartz (1.1.0)
@@ -226,5 +231,6 @@ DEPENDENCIES
   unarchiver (= 1.3.0)
   vagrant (= 3.0.4)
   virtualbox (= 1.0.9)
+  vlc (= 1.0.5)
   xquartz (= 1.1.0)
 

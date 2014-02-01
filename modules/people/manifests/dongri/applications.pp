@@ -11,6 +11,7 @@ class people::dongri::applications {
   include skype
   include spotify
   include unarchiver
+  include vlc
 
   package {
     'GoogleJapaneseInput':

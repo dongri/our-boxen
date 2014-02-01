@@ -70,6 +70,7 @@ github "skype",          "1.0.8"
 github "vagrant",        "3.0.4"
 github "spotify",        "1.0.1"
 github "unarchiver",     "1.3.0", :repo => "dieterdemeyer/puppet-unarchiver"
+github "vlc",            "1.0.5"
 
 github "mysql",          "1.2.0"
 github "redis",          "1.1.0"
