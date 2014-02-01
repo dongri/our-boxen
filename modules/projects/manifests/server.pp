@@ -1,9 +1,9 @@
 class projects::server {
   include nginx
-  include mysql
   include virtualbox
   include mongodb
-  include redis
+  # include mysql # Disable
+  # include redis # Disable
   
   # Vagrant stuff
   include vagrant
