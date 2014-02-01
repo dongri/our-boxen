@@ -10,6 +10,7 @@ class people::dongri::applications {
   include gitx::l             # GitX(L)
   include skype
   include spotify
+  include unarchiver
 
   package {
     'GoogleJapaneseInput':
