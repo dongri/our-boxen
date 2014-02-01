@@ -3,6 +3,7 @@ class projects::server {
   include mysql
   include virtualbox
   include mongodb
+  include redis
   
   # Vagrant stuff
   include vagrant
