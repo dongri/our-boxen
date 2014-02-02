@@ -12,6 +12,7 @@ class people::dongri::applications {
   include spotify
   include unarchiver
   include vlc
+  include xtrafinder
 
   package {
     'GoogleJapaneseInput':
