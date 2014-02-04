@@ -4,7 +4,8 @@ class projects::server {
   include mongodb
   # include mysql # Disable
   # include redis # Disable
-  
+  include heroku
+
   # Vagrant stuff
   include vagrant
   vagrant::plugin { 'vagrant-berkshelf':

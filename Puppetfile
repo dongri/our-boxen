@@ -78,4 +78,5 @@ github "redis",          "1.1.0"
 github "imagemagick",    "1.2.1"
 github "java",           "1.2.0"
 github "mongodb",        "1.2.0"
+github "heroku",         "2.1.1"
 
