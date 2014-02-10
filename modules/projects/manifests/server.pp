@@ -5,6 +5,7 @@ class projects::server {
   # include mysql # Disable
   # include redis # Disable
   include heroku
+  include imagemagick
 
   # Vagrant stuff
   include vagrant
