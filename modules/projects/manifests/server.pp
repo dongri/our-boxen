@@ -2,8 +2,8 @@ class projects::server {
   include nginx
   include virtualbox
   include mongodb
-  # include mysql # Disable
-  # include redis # Disable
+  include mysql # Disable
+  include redis # Disable
   include heroku
   include imagemagick
 

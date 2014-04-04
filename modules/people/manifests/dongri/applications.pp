@@ -13,6 +13,7 @@ class people::dongri::applications {
   include unarchiver
   include vlc
   include xtrafinder
+  include evernote
 
   package {
     'GoogleJapaneseInput':

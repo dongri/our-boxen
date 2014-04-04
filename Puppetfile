@@ -59,3 +59,28 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "chrome",         "1.1.2"
+github "firefox",        "1.1.4"
+github "alfred",         "1.1.8"
+github "sequel_pro",     "1.0.0"
+github "flux",           "1.0.0"
+github "sublime_text_2", "1.1.2"
+github "transmit",       "1.0.1"
+github "dropbox",        "1.1.1"
+github "virtualbox",     "1.0.9"
+github "gitx",           "1.2.0"
+github "skype",          "1.0.8"
+github "vagrant",        "3.0.4"
+github "spotify",        "1.0.1"
+github "unarchiver",     "1.3.0", :repo => "dieterdemeyer/puppet-unarchiver"
+github "vlc",            "1.0.5"
+github "xtrafinder",     "1.0.1"
+github "evernote",       "2.0.3"
+
+github "mysql",          "1.2.0"
+github "redis",          "1.1.0"
+github "imagemagick",    "1.2.1"
+github "java",           "1.2.0"
+github "mongodb",        "1.2.0"
+github "heroku",         "2.1.1"
