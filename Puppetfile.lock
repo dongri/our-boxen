@@ -94,11 +94,6 @@ GITHUBTARBALL
     mongodb (1.2.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-mysql
-  specs:
-    mysql (1.2.0)
-
-GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
     nginx (1.4.3)
@@ -122,11 +117,6 @@ GITHUBTARBALL
   remote: boxen/puppet-pkgconfig
   specs:
     pkgconfig (1.0.0)
-
-GITHUBTARBALL
-  remote: boxen/puppet-redis
-  specs:
-    redis (1.1.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-repository
@@ -199,6 +189,16 @@ GITHUBTARBALL
     unarchiver (1.3.0)
 
 GITHUBTARBALL
+  remote: dongri/puppet-mysql
+  specs:
+    mysql (2.0.0)
+
+GITHUBTARBALL
+  remote: dongri/puppet-redis
+  specs:
+    redis (4.0.0)
+
+GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
   specs:
     inifile (1.0.3)
@@ -235,13 +235,13 @@ DEPENDENCIES
   java (= 1.2.0)
   module-data (= 0.0.3)
   mongodb (= 1.2.0)
-  mysql (= 1.2.0)
+  mysql (= 2.0.0)
   nginx (= 1.4.3)
   nodejs (= 3.7.0)
   openssl (= 1.0.0)
   phantomjs (= 2.1.0)
   pkgconfig (= 1.0.0)
-  redis (= 1.1.0)
+  redis (= 4.0.0)
   repository (= 2.3.0)
   ruby (= 7.2.4)
   sequel_pro (= 1.0.0)
