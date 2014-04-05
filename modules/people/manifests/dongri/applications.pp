@@ -7,7 +7,7 @@ class people::dongri::applications {
   include sublime_text_2
   include transmit
   include sequel_pro
-  include gitx::l             # GitX(L)
+  include gitx::dev             # GitX(Dev)
   include skype
   include spotify
   include unarchiver
