@@ -36,7 +36,8 @@ class projects::server {
       "aws-elasticbeanstalk",
       "aws-iam-tools",
       "curl-ca-bundle",
-      "graphicsmagick"
+      "graphicsmagick",
+      "ec2-api-tools"
     ]:
   }
 }
